@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\YenidenC#\OOP\4.29.2021\IEnumerator\IEnumerator\bin\Debug\IEnumerator.exe.config
+C:\Users\User\Desktop\YenidenC#\OOP\4.29.2021\IEnumerator\IEnumerator\bin\Debug\IEnumerator.exe
+C:\Users\User\Desktop\YenidenC#\OOP\4.29.2021\IEnumerator\IEnumerator\bin\Debug\IEnumerator.pdb
+C:\Users\User\Desktop\YenidenC#\OOP\4.29.2021\IEnumerator\IEnumerator\obj\Debug\IEnumerator.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\YenidenC#\OOP\4.29.2021\IEnumerator\IEnumerator\obj\Debug\IEnumerator.Form1.resources
+C:\Users\User\Desktop\YenidenC#\OOP\4.29.2021\IEnumerator\IEnumerator\obj\Debug\IEnumerator.Properties.Resources.resources
+C:\Users\User\Desktop\YenidenC#\OOP\4.29.2021\IEnumerator\IEnumerator\obj\Debug\IEnumerator.csproj.GenerateResource.cache
+C:\Users\User\Desktop\YenidenC#\OOP\4.29.2021\IEnumerator\IEnumerator\obj\Debug\IEnumerator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\YenidenC#\OOP\4.29.2021\IEnumerator\IEnumerator\obj\Debug\IEnumerator.exe
+C:\Users\User\Desktop\YenidenC#\OOP\4.29.2021\IEnumerator\IEnumerator\obj\Debug\IEnumerator.pdb
